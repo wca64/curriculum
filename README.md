@@ -1,1 +1,3 @@
-🚧 Work in progress
+# Warrior Chess Academy - Chess Curriculum
+
+**🚧 Work in progress**
