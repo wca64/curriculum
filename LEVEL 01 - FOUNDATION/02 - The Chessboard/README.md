@@ -1,6 +1,6 @@
 # Lesson 02 - The Chessboard
 
-## 🎯What You’ll Learn
+## 🎯 What You’ll Learn
 
 1. How to recognize the layout and colors of the chessboard
 2. How to name squares using files and ranks
