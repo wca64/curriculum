@@ -1,6 +1,6 @@
 # Lesson 01 - Introduction to Chess
 
-## 🎯What You’ll Learn
+## 🎯 What You’ll Learn
 
 1. To understand what chess is and how it's played
 2. To explore the origin and history of chess
