@@ -2,5 +2,5 @@
 
 ## 🎯 What You’ll Learn
 
-- checkmating the lone king: using 2 rooks (ladder mate)
-- checkmating the lone king: using a queen
+1. checkmating the lone king: using 2 rooks (ladder mate)
+2. checkmating the lone king: using a queen
