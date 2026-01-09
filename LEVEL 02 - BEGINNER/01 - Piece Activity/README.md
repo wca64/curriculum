@@ -2,8 +2,8 @@
 
 ## 🎯 What You’ll Learn
 
-- How to make your pieces stronger by placing them on active squares
-- Why controlling the center increases power, mobility, and attacking chances
-- How to identify passive pieces and improve their placement
-- How to trap or restrict your opponent’s pieces using activity
-- How piece coordination and mobility decide who wins the battle
+1. How to make your pieces stronger by placing them on active squares
+2. Why controlling the center increases power, mobility, and attacking chances
+3. How to identify passive pieces and improve their placement
+4. How to trap or restrict your opponent’s pieces using activity
+5. How piece coordination and mobility decide who wins the battle
