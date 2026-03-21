@@ -2,7 +2,7 @@
 
 | # | Lesson Name | What You’ll Learn |
 |:-:|---|---|
-| 01 | [Introduction to Chess](LEVEL%2001%20-%20FOUNDATION/01%20-%20Introduction%20to%20Chess) | • To understand what chess is and how it's played <br> • To explore the origin and history of chess <br> • To learn about famous chess champions (men & women) <br> • To understand how chess helps the brain and why it's fun to learn |
+| 01 | [Introduction to Chess](01%20-%20Introduction%20to%20Chess) | • To understand what chess is and how it's played <br> • To explore the origin and history of chess <br> • To learn about famous chess champions (men & women) <br> • To understand how chess helps the brain and why it's fun to learn |
 | 02 | [The Chessboard](LEVEL%2001%20-%20FOUNDATION/02%20-%20The%20Chessboard) | • How to recognize the layout and colors of the chessboard <br> • How to name squares using files and ranks <br> • How to place the board correctly <br> • How to set up all chess pieces in their starting positions <br> • Understanding which side moves first and why |
 | 03 | [The Pieces (Part 1)](LEVEL%2001%20-%20FOUNDATION/03%20-%20The%20Pieces%20(Part%201)) | • How pieces move: Rook, Bishop, Queen, Knight and King <br> • Attacking and Capturing ( RBQNK ) <br> • Understanding the value of each piece |
 | 04 | [The Pieces (Part 2)](LEVEL%2001%20-%20FOUNDATION/04%20-%20The%20Pieces%20(Part%202)) | • Pawn moves <br> • Attacking and Capturing with pawn <br> • Pawn Promotion |
