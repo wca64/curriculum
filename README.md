@@ -26,7 +26,7 @@ Each level contains lesson folders with a `README.md` outlining the learning obj
 | 09 | [Special Moves](LEVEL%2001%20-%20FOUNDATION/09%20-%20Special%20Moves) |
 | 10 | [Smart Exchanges](LEVEL%2001%20-%20FOUNDATION/10%20-%20Smart%20Exchanges) |
 | 11 | [Double Pressure](LEVEL%2001%20-%20FOUNDATION/11%20-%20Double%20Pressure) |
-| 12 | [Saving the Draw](LEVEL%2001%20-%20FOUNDATION/12%20-%20Saving%20the%20Draw) |
+| 12 | [Understanding Draw](LEVEL%2001%20-%20FOUNDATION/12%20-%20Understanding%20Draw) |
 | 13 | [Chess Move Notation](LEVEL%2001%20-%20FOUNDATION/13%20-%20Chess%20Move%20Notation) |
 
 # ♘ **LEVEL 02 – BEGINNER**
