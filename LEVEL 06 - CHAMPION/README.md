@@ -1,3 +1,4 @@
+**`🧡 Warrior Chess Academy • Chess Curriculum`**
 # ♔ **LEVEL 06 – CHAMPION**
 
 | # | Lesson Name | What You’ll Learn |
