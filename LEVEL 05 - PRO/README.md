@@ -1,3 +1,4 @@
+**`🧡 Warrior Chess Academy • Chess Curriculum`**
 # ♕ **LEVEL 05 – PRO**
 
 | # | Lesson Name | What You’ll Learn |
