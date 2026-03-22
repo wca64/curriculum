@@ -1,3 +1,4 @@
+**`🧡 Warrior Chess Academy • Chess Curriculum`**
 # ♘ **LEVEL 02 – BEGINNER**
 
 | # | Lesson Name | What You’ll Learn |
