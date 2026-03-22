@@ -1,4 +1,4 @@
-# Warrior Chess Academy - Chess Curriculum
+# **`🧡 Warrior Chess Academy • Chess Curriculum`**
 
 ## 📚 Levels
 
