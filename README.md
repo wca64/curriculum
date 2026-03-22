@@ -1,4 +1,4 @@
-# **`🧡 Warrior Chess Academy • Chess Curriculum`**
+# **`Warrior Chess Academy - Chess Curriculum`**
 
 ## 📚 Levels
 
@@ -10,6 +10,8 @@
 - ♔ [**LEVEL 06 – CHAMPION**](LEVEL%2006%20-%20CHAMPION)
 
 Each level contains lesson folders with a `README.md` outlining the learning objectives.
+
+---
 
 # ♙ **LEVEL 01 – FOUNDATION**
 
