@@ -1,3 +1,4 @@
+**`🧡 Warrior Chess Academy • Chess Curriculum`**
 # ♙ **LEVEL 01 – FOUNDATION**
 
 | # | Lesson Name | What You’ll Learn |
