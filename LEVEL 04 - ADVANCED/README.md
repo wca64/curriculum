@@ -1,3 +1,4 @@
+**`🧡 Warrior Chess Academy • Chess Curriculum`**
 # ♖ **LEVEL 04 – ADVANCED**
 
 | # | Lesson Name | What You’ll Learn |
