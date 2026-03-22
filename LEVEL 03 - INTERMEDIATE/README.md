@@ -1,4 +1,4 @@
-# ♘ **LEVEL 03 – INTERMEDIATE**
+# ♗ **LEVEL 03 – INTERMEDIATE**
 
 | # | Lesson Name | What You’ll Learn |
 |:-:|---|---|
