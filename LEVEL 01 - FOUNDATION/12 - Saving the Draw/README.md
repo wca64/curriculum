@@ -1,4 +1,4 @@
-# Lesson 12 - Saving the Draw
+# Lesson 12 - Understanding Draw
 
 ## 🎯 What You’ll Learn
 
